@@ -4,8 +4,8 @@ This is a basic Sass template to help starting new projects production.
 
 ## About NodeJS version
 
-In order to run Sass we have to install or update NodeJS an NPM (Node Packages Manager) to do that we run the following commands:
-OBS: Some might need some updated information which can be found in:</br></br>
+In order to run Sass we have to install or update NodeJS an NPM (Node Packages Manager) to do that we run the following commands:</br>
+### OBS: Some might need some updated information which can be found in:</br></br>
 &nbsp;[NodeJS Documentation](https://nodejs.org/en)</br>
 &nbsp;[NPM (Node Packages Manager)](https://www.npmjs.com/)</br></br>
 
