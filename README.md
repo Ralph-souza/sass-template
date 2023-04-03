@@ -41,6 +41,10 @@ First of all we will create a **package.json** file by running the following com
 
 > $ sudo npm init -y
 
+### OBS: If by any chance you find out a Ubuntu permission **ERROR** while trying to save the **package.json** file try running the following command to solve it:
+
+> $ sudo chown -R $USER:$USER /home/
+
 Then run:
 
 > $ sudo npm install node-sass
